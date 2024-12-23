@@ -1,11 +1,3 @@
-// dear imgui: standalone example application for Android + OpenGL ES 3
-
-// Learn about Dear ImGui:
-// - FAQ                  https://dearimgui.com/faq
-// - Getting Started      https://dearimgui.com/getting-started
-// - Documentation        https://dearimgui.com/docs (same as your local docs/ folder).
-// - Introduction, links and more at the top of imgui.cpp
-
 #include "imgui.h"
 #include "imgui_impl_android.h"
 #include "imgui_impl_opengl3.h"
